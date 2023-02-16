@@ -1,6 +1,6 @@
-<H2 align="center">Emoji Cheat Sheet</h2>
+# emoji-cheat-sheet
 
-[![Up to Date](https://github.com/ikx7a/EmojiSheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/ikx7a/EmojiSeet/actions?query=workflow%3A%22Up+to+Date%22)
+[![Up to Date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/ikatyang/emoji-cheat-sheet/actions?query=workflow%3A%22Up+to+Date%22)
 
 This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
 
@@ -1578,8 +1578,9 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | - | :-: | - | :-: | - | - |
 | [top](#github-custom-emoji) | :atom: | `:atom:` | :basecamp: | `:basecamp:` | [top](#table-of-contents) |
 | [top](#github-custom-emoji) | :basecampy: | `:basecampy:` | :bowtie: | `:bowtie:` | [top](#table-of-contents) |
-| [top](#github-custom-emoji) | :electron: | `:electron:` | :feelsgood: | `:feelsgood:` | [top](#table-of-contents) |
-| [top](#github-custom-emoji) | :finnadie: | `:finnadie:` | :goberserk: | `:goberserk:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :dependabot: | `:dependabot:` | :electron: | `:electron:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :feelsgood: | `:feelsgood:` | :finnadie: | `:finnadie:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :fishsticks: | `:fishsticks:` | :goberserk: | `:goberserk:` | [top](#table-of-contents) |
 | [top](#github-custom-emoji) | :godmode: | `:godmode:` | :hurtrealbad: | `:hurtrealbad:` | [top](#table-of-contents) |
 | [top](#github-custom-emoji) | :neckbeard: | `:neckbeard:` | :octocat: | `:octocat:` | [top](#table-of-contents) |
 | [top](#github-custom-emoji) | :rage1: | `:rage1:` | :rage2: | `:rage2:` | [top](#table-of-contents) |
